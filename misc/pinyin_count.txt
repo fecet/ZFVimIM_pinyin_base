@@ -12,7 +12,7 @@ bu 14
 buxiu 1
 cha 1
 chan 2
-chang 6 1
+chang 7 1
 changshang 1
 cheng 1
 chi 1
@@ -54,7 +54,7 @@ fanduipai 2
 fang 3
 fazhang 2
 fei 7
-fen 1
+fen 2
 fu 5
 ge 2
 gei 1
