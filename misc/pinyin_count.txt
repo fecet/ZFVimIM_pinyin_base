@@ -25,13 +25,14 @@ chujing 1
 chun 1
 ci 3 1 1
 cong 3
-d 86
-da 11 1
+d 87
+da 11 2
 dacheng 1
+dadao 1
 dai 1
 dan 8
 dang 3
-dao 8 4 1
+dao 9 4 1
 daodi 1
 daoshi 1
 dayu 2
@@ -54,7 +55,7 @@ fan 7
 fanduipai 2
 fang 3
 fazhang 2
-fei 7
+fei 8
 fen 2
 fu 8
 ge 3 1
@@ -97,7 +98,7 @@ ke 1
 kong 1
 kou 2
 ku 3
-l 2
+l 3
 la 3
 lai 8
 lang 1
@@ -145,6 +146,7 @@ quan 2
 rang 5
 re 1
 ren 2
+reng 1
 ru 4
 ruo 2
 sa 16
@@ -160,7 +162,7 @@ shao 4
 shen 1
 sheng 2 1
 shenqisuo 5
-shi 18 5 4 3 1 1 1 1
+shi 19 5 4 3 1 1 1 1
 shifang 6 1
 shijia 1
 shou 5 2 2 1 1 1
@@ -193,7 +195,7 @@ weibing 1
 weiyan 4
 wo 2
 wu 4 1
-wuxian 7
+wuxian 8
 xia 2
 xian 5 1 1 1 1
 xiane 1
@@ -219,7 +221,7 @@ yisan 23
 yiwei 1
 yixia 2
 yong 9 1
-you 16 3 1
+you 17 3 1
 youshi 1
 youyoushi 1
 yu 4 2 2 1
@@ -228,7 +230,7 @@ yuanqishou 1
 yuanxin 1
 yushi 1
 yuxian 1
-zai 24 1
+zai 25 1
 zaihuo 1
 zao 2
 zha 2
