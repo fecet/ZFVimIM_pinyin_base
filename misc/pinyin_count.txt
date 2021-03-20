@@ -1,0 +1,249 @@
+ai 1
+aishaya 9 1
+ba 1
+bei 5
+bi 7
+bian 1 1
+bing 2 1
+bo 1 1
+bobo 1
+bu 14
+buxiu 1
+cha 1
+chan 2
+chang 6 1
+changshang 1
+cheng 1
+chi 1
+chihou 3
+chong 2
+chongzhi 1
+chu 15 1
+chujing 1
+chun 1
+ci 3 1 1
+cong 3
+d 84
+da 9 1
+dacheng 1
+dai 1
+dan 8
+dang 3
+dao 8 2 1
+daodi 1
+daoshi 1
+dayu 2
+dei 1
+di 11
+dian 2
+diao 1
+ding 1
+diu 1
+dong 1 1
+dou 4
+duan 2 1
+dui 3
+duo 5
+e 3 2
+elang 1
+er 4 2
+fa 6
+fan 4
+fanduipai 2
+fang 3
+fazhang 2
+fei 7
+fen 1
+fu 5
+ge 2
+gen 2
+geng 3
+gou 1
+guang 1
+gui 1
+guo 1
+hai 1
+hao 5
+he 12
+hen 7
+hou 1 1
+hu 1 1
+hua 1
+huan 1
+huanzhu 1
+hui 8 2
+huishou 4 2
+hujing 1
+huo 5 2 1
+huoguo 1
+ji 1 1
+jia 1 1
+jian 2 1
+jiang 5
+jie 2 1 1
+jiejie 1
+jili 1
+jin 1 1
+jing 2 2
+jinhua 1
+jinle 1
+jizhong 1
+ka 2
+kan 1
+ke 1
+kong 1
+kou 2
+ku 3
+l 2
+la 2
+lai 7
+lang 1
+le 3
+li 8 1
+lian 2
+liang 2
+lie 1
+lin 3
+ling 2
+lou 1
+luo 1
+luoyan 1
+lv 3
+lvyang 1
+ma 1
+make 1
+man 1 1
+me 1
+men 4
+miao 2
+miaosheng 1
+min 1
+ming 2
+minjie 1
+mo 1
+mu 4 2
+mudi 1
+na 3
+nan 2
+nei 2
+neng 2
+ni 17
+nian 1
+niao 1
+pai 5 1
+qi 6 1 1 1
+qian 2
+qiao 2
+qiaomu 1
+qidong 12
+qing 2 1
+rang 5
+re 1
+ren 2
+ru 4
+ruo 2
+sa 16
+san 1
+sao 3
+saoqing 1
+se 1
+sha 3 1
+shan 1
+shang 2
+shangchang 1
+shao 4
+shen 1
+sheng 2 1
+shenqisuo 4
+shi 18 4 4 3 1 1 1 1
+shifang 6 1
+shijia 1
+shou 5 2 2 1 1
+shoudao 1
+shoushoudao 1
+shu 6 4 1
+shuci 1
+si 2
+su 1
+suo 6
+ta 9 2 2
+tai 1
+tamen 7
+tang 1
+te 2
+teng 1
+ti 3
+tian 1
+tiao 2
+tie 2
+ting 1
+tong 1
+tu 1
+wai 2
+wan 1
+wang 2 1
+wangwang 1
+wei 2 1 1
+weibing 1
+weiyan 4
+wo 2
+wu 3 1
+wuxian 7
+xia 2
+xian 4 1 1 1 1
+xiane 1
+xiang 6 1 1
+xiangshu 2
+xianzhe 2
+xianzhi 2
+xie 1
+xieyi 1
+xin 2
+xiu 1
+xu 10
+xue 1
+xun 1
+ya 1 1
+yan 1 1
+yang 1
+yao 15
+ye 4
+yi 2 2 1 1 1
+yibian 1
+yisan 23
+yiwei 1
+yixia 2
+yong 8 1
+you 16 3 1
+youshi 1
+youyoushi 1
+yu 4 2 2
+yuan 2 1 1
+yuanqishou 1
+yuanxin 1
+yushi 1
+zai 23 1
+zaihuo 1
+zao 1
+zha 2
+zhang 2 1
+zhangzhe 5
+zhao 11
+zhe 7 3
+zhen 1
+zhi 2 2 2 1 1 1 1 1
+zhidao 1
+zhisheng 10
+zhizao 1
+zhong 6 1
+zhu 5 1 1 1
+zhua 6
+zhuguang 1
+zi 2 2 1
+zisha 1 1
+zong 1 1
+zu 1 1
+zui 4
+zujian 2
+zuo 4
+zuzhi 2
