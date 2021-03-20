@@ -127,7 +127,7 @@ mu 4 2
 mudi 1
 na 3
 nan 2
-nei 2
+nei 3
 neng 2
 ni 17
 nian 1
@@ -175,7 +175,7 @@ tamen 7
 tang 1
 te 2
 teng 1
-ti 4
+ti 5
 tian 1
 tiao 2
 tie 2
@@ -216,7 +216,7 @@ yibian 1
 yisan 23
 yiwei 1
 yixia 2
-yong 8 1
+yong 9 1
 you 16 3 1
 youshi 1
 youyoushi 1
