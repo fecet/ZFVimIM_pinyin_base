@@ -3,7 +3,8 @@ aishaya 9 1
 ba 1
 bei 5
 bi 7
-bian 1 1
+bian 2 1
+bianming 1
 bing 2 1
 bo 1 1
 bobo 1
@@ -56,6 +57,7 @@ fei 7
 fen 1
 fu 5
 ge 2
+gei 1
 gen 2
 geng 3
 gou 1
@@ -118,8 +120,8 @@ men 4
 miao 2
 miaosheng 1
 min 1
-ming 2
-minjie 1
+ming 3
+minjie 2
 mo 1
 mu 4 2
 mudi 1
@@ -137,6 +139,7 @@ qiao 2
 qiaomu 1
 qidong 12
 qing 2 1
+quan 1
 rang 5
 re 1
 ren 2
@@ -155,7 +158,7 @@ shao 4
 shen 1
 sheng 2 1
 shenqisuo 5
-shi 18 4 4 3 1 1 1 1
+shi 18 5 4 3 1 1 1 1
 shifang 6 1
 shijia 1
 shou 5 2 2 1 1
@@ -172,7 +175,7 @@ tamen 7
 tang 1
 te 2
 teng 1
-ti 3
+ti 4
 tian 1
 tiao 2
 tie 2
