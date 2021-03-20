@@ -19,12 +19,12 @@ chi 1
 chihou 3
 chong 2
 chongzhi 1
-chu 15 1
+chu 16 1
 chujing 1
 chun 1
 ci 3 1 1
 cong 3
-d 85
+d 86
 da 10 1
 dacheng 1
 dai 1
@@ -97,8 +97,8 @@ kong 1
 kou 2
 ku 3
 l 2
-la 2
-lai 7
+la 3
+lai 8
 lang 1
 le 3
 li 8 1
@@ -195,7 +195,7 @@ wuxian 7
 xia 2
 xian 4 1 1 1 1
 xiane 1
-xiang 6 1 1
+xiang 7 1 1
 xiangshu 2
 xianzhe 2
 xianzhi 2
@@ -209,7 +209,7 @@ xun 1
 ya 1 1
 yan 1 1
 yang 1
-yao 15
+yao 16
 ye 4
 yi 2 2 1 1 1
 yibian 1
