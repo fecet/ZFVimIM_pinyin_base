@@ -154,7 +154,7 @@ shangchang 1
 shao 4
 shen 1
 sheng 2 1
-shenqisuo 4
+shenqisuo 5
 shi 18 4 4 3 1 1 1 1
 shifang 6 1
 shijia 1
