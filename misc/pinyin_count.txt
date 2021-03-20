@@ -1,6 +1,6 @@
 ai 1
 aishaya 9 1
-ba 1
+ba 1 1
 bei 5
 bi 7
 bian 2 1
@@ -97,6 +97,7 @@ ka 2
 kan 1
 kang 1
 ke 1
+ken 1
 kong 1
 kou 2
 ku 3
@@ -245,7 +246,7 @@ zhangzhe 5
 zhao 11
 zhe 7 3
 zhen 1
-zhi 3 2 2 2 1 1 1 1
+zhi 3 2 2 2 1 1 1 1 1
 zhidao 1
 zhisheng 10
 zhizao 1
